@@ -1,11 +1,12 @@
 # DeepLoL
+This program is not for personal or commercial use. This is a WIP and should *not* be used as-is.  
+This program is purely a personal project to learn Python, Deep Learning, and Boost.
 
 Credits:
-Winstealer Made by bckd00r
-Xepher Fork Made by TopZoozle
-
-All credits go to the original [author](https://github.com/CNLouisLiu/LViewLoL)
-
+Winstealer Made by bckd00r.  
+Xepher Fork Made by TopZoozle.  
+Original LViewPlus made by CNLouisLiu.  
+LViewPlus64 made by ImbaMDT.  
 
 ### Building
 
@@ -25,10 +26,6 @@ Dependencies:
  All LView & LView python scripts configurations reside in config.ini file. First you must set the path to the scripts folder with the following config (you can find the config.ini in LView folder):
  
   `::scriptsFolder=\<folder\>`
-  
-
-This program is not for personal or commercial use. This is a WIP and should *not* be used as is.
-
 ## How can i use Formatter?
 
 First, you will need to do "pip install black" because the python definitions need to be defined in every way. It doesn't see some files, but that's okay. Then put it to "Gameplayscripts" and type "python format.py".
