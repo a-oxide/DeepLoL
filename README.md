@@ -1,19 +1,11 @@
-# 🔥 LViewPlus64
+# DeepLoL
 
-<img src="https://flat.badgen.net/badge/RIOT/Undetected./green?icon=terminal">  <img src="https://flat.badgen.net/badge/RIOT/BANS: 0/red?icon=terminal">
-
-Supported regions: EUW-NA-RU-BR-TR (KOREA AND JAPAN NOT SAFE)
-
-
+Credits:
 Winstealer Made by bckd00r
-
 Xepher Fork Made by TopZoozle
 
 All credits go to the original [author](https://github.com/CNLouisLiu/LViewLoL)
 
-![Screenshot](https://user-images.githubusercontent.com/85362882/126047207-71b563b6-c8c6-4729-bc98-043f55c28492.png)
-
-Sorry for bad image quality but this is just an image of its current state: [ 17 / 07 / 2021 ]
 
 ### Building
 
@@ -35,7 +27,7 @@ Dependencies:
   `::scriptsFolder=\<folder\>`
   
 
-Made for educational purposes, do not use maliciously
+This program is not for personal or commercial use. This is a WIP and should *not* be used as is.
 
 ## How can i use Formatter?
 
