@@ -8,6 +8,10 @@ Xepher Fork Made by TopZoozle.
 Original LViewPlus made by CNLouisLiu.  
 LViewPlus64 made by ImbaMDT.  
 
+## Current Status: **NONFUNCTIONAL**  
+This repository is essentially unedited from the original source as of 11/12/23.  
+If you have concerns about this project please contact me through Github.
+
 ### Building
 
 You need Visual Studio 2019 to compile this.
