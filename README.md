@@ -10,7 +10,8 @@ LViewPlus64 made by ImbaMDT.
 
 ## Current Status: **NONFUNCTIONAL**  
 This repository is essentially unedited from the original source as of 11/12/23.  
-If you have concerns about this project please contact me through Github.
+As of 2024 LoL now uses Vanguard to secure the memory this program used to read from.  
+This project will be continued in private, as any open-sourced bypass of the Vanguard driver would be quickly patched.  
 
 ### Building
 
